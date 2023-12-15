@@ -9,4 +9,4 @@ enc= float((cm1+cm2)/3)
 ntf= float((ntc-enc)*3)
 cm3=ntf
 
-print (round(ntf, 2))
+print ("Necesita nota ", round(ntf, 2), " en el certamen 3")
