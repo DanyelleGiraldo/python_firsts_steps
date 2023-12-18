@@ -5,3 +5,6 @@ for i in range(altura):
       for x in range(i+1):
           print("*", end=" " )
       print(" ")  
+
+
+# Cierre las carpetas cuando acabe >:(
