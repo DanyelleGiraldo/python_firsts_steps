@@ -8,3 +8,4 @@ for i in range(altura):
 
 
 # Cierre las carpetas cuando acabe >:(
+# NO, me da pereza 
